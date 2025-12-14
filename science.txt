@@ -1,0 +1,210 @@
+1
+Water freezes at what temperature in Celsius?
+0
+20
+50
+100
+1
+1
+Which planet is known as the Red Planet?
+Earth
+Mars
+Jupiter
+Venus
+2
+1
+Which gas do humans need to breathe?
+Carbon dioxide
+Oxygen
+Nitrogen
+Helium
+2
+1
+What is the main source of light for Earth?
+The Moon
+The Sun
+Stars
+Clouds
+2
+1
+How many legs does an insect usually have?
+2
+4
+6
+8
+3
+1
+What is the solid form of water called?
+Ice
+Steam
+Cloud
+Rain
+1
+1
+Which organ pumps blood in the human body?
+Lungs
+Brain
+Heart
+Stomach
+3
+1
+What do bees collect from flowers?
+Water
+Soil
+Nectar
+Stones
+3
+1
+Which of these is a star?
+Earth
+Mars
+The Sun
+The Moon
+3
+1
+Which sense organ is used for seeing?
+Nose
+Tongue
+Eye
+Ear
+3
+2
+Which part of the plant makes food using sunlight?
+Root
+Stem
+Leaf
+Flower
+3
+2
+Which gas do plants take in during photosynthesis?
+Oxygen
+Carbon dioxide
+Nitrogen
+Hydrogen
+2
+2
+What is H2O commonly called?
+Salt
+Water
+Sugar
+Alcohol
+2
+2
+Which part of the cell contains DNA?
+Cell wall
+Membrane
+Nucleus
+Vacuole
+3
+2
+Which force pulls objects toward the Earth?
+Friction
+Gravity
+Magnetism
+Electricity
+2
+2
+What is the boiling point of water in Celsius?
+50
+90
+100
+120
+3
+2
+What is the closest planet to the Sun?
+Earth
+Mars
+Mercury
+Venus
+3
+2
+Which organ is mainly used for breathing?
+Kidney
+Lungs
+Liver
+Heart
+2
+2
+What is the largest planet in our solar system?
+Earth
+Jupiter
+Mars
+Saturn
+2
+2
+Which blood cells help to fight infections?
+Red blood cells
+White blood cells
+Platelets
+Plasma
+2
+3
+What is the center of the Earth called?
+Crust
+Mantle
+Core
+Surface
+3
+3
+Which scientist proposed the theory of relativity?
+Isaac Newton
+Albert Einstein
+Galileo Galilei
+Nikola Tesla
+2
+3
+What is the chemical symbol for sodium?
+S
+Na
+So
+Sn
+2
+3
+Which layer of the atmosphere contains the ozone layer?
+Troposphere
+Stratosphere
+Mesosphere
+Ionosphere
+2
+3
+Which vitamin is mainly obtained from sunlight?
+Vitamin A
+Vitamin B12
+Vitamin C
+Vitamin D
+4
+3
+What is the process of water changing from liquid to gas called?
+Condensation
+Evaporation
+Freezing
+Melting
+2
+3
+Which organ filters blood to make urine?
+Heart
+Liver
+Kidney
+Stomach
+3
+3
+What is the hardest natural substance on Earth?
+Gold
+Iron
+Diamond
+Silver
+3
+3
+Which part of the eye controls the amount of light entering?
+Lens
+Iris
+Cornea
+Retina
+2
+3
+What is the main gas in Earth’s atmosphere?
+Oxygen
+Carbon dioxide
+Nitrogen
+Helium
+3
