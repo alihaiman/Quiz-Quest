@@ -1,0 +1,203 @@
+1
+Which device is used to type text into a computer?
+Mouse
+Keyboard
+Monitor
+Printer
+2
+1
+Which part of the computer shows the output?
+Mouse
+Keyboard
+Monitor
+Speaker
+3
+1
+Which device moves the pointer on the screen?
+Scanner
+Mouse
+Printer
+CPU
+2
+1
+Which of these is an input device?
+Speaker
+Printer
+Keyboard
+Monitor
+3
+1
+Which of these is an output device?
+Mouse
+Scanner
+Monitor
+Webcam
+3
+1
+Which key is used to move to the next line in most editors?
+Space
+Shift
+Enter
+Tab
+3
+1
+What does “PC” stand for?
+Personal Computer
+Public Computer
+Private Code
+Primary Chip
+1
+1
+Which storage device is portable?
+Hard disk inside PC
+USB flash drive
+Monitor
+Keyboard
+2
+1
+Which of these is used to print on paper?
+Monitor
+Mouse
+Printer
+Scanner
+3
+1
+Which of these is used to take a photo into the computer?
+Speaker
+Scanner
+Projector
+Printer
+2
+2
+What does CPU stand for?
+Central Print Unit
+Central Processing Unit
+Control Program Unit
+Computer Process Utility
+2
+2
+Which of these is an operating system?
+C++
+Python
+Windows
+HTML
+3
+2
+Which key is used to delete the character on the left of the cursor?
+Shift
+Backspace
+Ctrl
+Alt
+2
+2
+Which memory loses data when power is off?
+Hard disk
+SSD
+RAM
+CD
+3
+2
+What does RAM stand for?
+Random Access Memory
+Read Able Memory
+Rapid Access Machine
+Random Array Memory
+1
+2
+Which of these is a web browser?
+MS Word
+Google Chrome
+Paint
+Notepad
+2
+2
+Which of these file extensions is for an image?
+.txt
+.exe
+.jpg
+.bat
+3
+2
+Which device connects a computer to the Internet?
+Scanner
+Router
+Printer
+Keyboard
+2
+2
+Which language is closest to the hardware?
+High level language
+Assembly language
+Markup language
+Query language
+2
+2
+Which shortcut is commonly used to paste text in Windows?
+Ctrl + X
+Ctrl + C
+Ctrl + V
+Ctrl + Z
+3
+3
+Which number system does a computer use internally?
+Decimal
+Binary
+Octal
+Hexadecimal
+2
+3
+Which part of the CPU performs calculations?
+Control unit
+Memory unit
+ALU
+Register
+3
+3
+Which OS is open source?
+Windows
+macOS
+Linux
+DOS
+3
+3
+What does URL stand for?
+Universal Read Link
+Uniform Resource Locator
+User Resource Link
+Universal Remote Locator
+2
+3
+Which protocol is mainly used for web pages?
+FTP
+SMTP
+HTTP
+POP3
+3
+3
+Which type of software is MS Word?
+System software
+Application software
+Utility firmware
+Device driver
+2
+3
+Which topology connects all computers to a single cable?
+Star
+Ring
+Bus
+Mesh
+3
+3
+Which device forwards data packets between networks?
+Switch
+Hub
+Router
+Keyboard
+3
+3
+Which key combination is often used to open Task Manager in Windows?
+Ctrl + S
+Ctrl + P
+Ctrl + Shift + Esc
+Alt + F4
+3
